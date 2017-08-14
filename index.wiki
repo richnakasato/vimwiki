@@ -1,5 +1,6 @@
 = Personal Knowledge Base =
 
+
 == Daily Logs ==
 [[logs/logs.wiki|logs]]
 
@@ -10,6 +11,9 @@
 
 == Notes ==
 [[tasks/tasks.wiki|tasks]]
+
+
+== Links ==
 
 
 [[index.wiki|index]]
