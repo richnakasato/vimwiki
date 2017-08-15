@@ -1,0 +1,5 @@
+= Template Log MM/DD/YYYY =
+08/15/2017 03:06:30 PM - recorded some random log
+
+----
+[[/index]]

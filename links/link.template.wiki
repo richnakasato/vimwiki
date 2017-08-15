@@ -1,0 +1,5 @@
+= Template Links =
+[[en.cppreference.com|cppreference]]
+
+----
+[[/index]]

@@ -1,19 +1,29 @@
 = Personal Knowledge Base =
 
+== Templates ==
+[[logs/log.template|Logs]]
+[[tasks/task.template|Tasks]]
+[[notes/note.template|Notes]]
+[[links/link.template|Links]]
+
+== Quick Links ==
+[[logs/log.2017.08.15|Today's Log]]
+[[notes/note.scratch|Note Scratchpad]]
 
 == Daily Logs ==
-[[logs/logs.wiki|logs]]
-
+[[logs/log.2017|2017 Logs]]
 
 == Tasks ==
-[[tasks/tasks.wiki|tasks]]
-
+[[tasks/task.scratch|Task Scratchpad]]
 
 == Notes ==
-[[tasks/tasks.wiki|tasks]]
-
+[[notes/note.scratch|Note Scratchpad]]
+[[notes/note.leetcode|Note LeetCode]]
 
 == Links ==
+[[links/link.apis|Programming APIs]]
+[[links/link.gits|Github Pages]]
+[[links/link.judges|Online Judges]]
 
-
-[[index.wiki|index]]
+----
+[[/index]]

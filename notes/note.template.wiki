@@ -1,0 +1,7 @@
+= Template Notes =
+- Some random note
+- Some other random note
+- Yet another random note
+
+----
+[[/index]]
