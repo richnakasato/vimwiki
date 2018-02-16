@@ -1,2 +1,2 @@
 # vimwiki
-My personal wiki
+personal wiki
